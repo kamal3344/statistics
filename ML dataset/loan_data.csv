@@ -1,0 +1,121 @@
+Age,Salary,Gender,City,Education,Experience,LoanAmount,CreditScore,LoanApproved
+59,70015.0,Female,Chennai,UG,18,100612,659.0,0
+49,74268.0,Male,Vijayawada,UG,16,860006,560.0,1
+35,,Male,Vijayawada,Post Graduate,13,859956,,1
+28,38141.0,male,Vijayawada,Under Graduate,3,250244,550.0,0
+41,100356.0,F,Hyderabad,Under Graduate,9,847348,776.0,1
+59,91910.0,male,Hyderabad,Post Graduate,0,438472,504.0,1
+39,76044.0,M,Hyderabad,PG,0,213273,591.0,1
+43,87214.0,Female,Chennai,Under Graduate,2,758690,669.0,1
+31,53827.0,male,Delhi,UG,15,194528,816.0,0
+31,75820.0,Male,Vijayawada,UG,8,556964,521.0,1
+44,82623.0,Female,Vijayawada,Graduate,18,499613,825.0,0
+56,101734.0,Female,Chennai,Under Graduate,3,957720,500.0,1
+44,95450.0,Male,Vijayawada,PG,6,88765,632.0,1
+23,113426.0,male,Hyderabad,Post Graduate,15,881538,732.0,0
+42,42299.0,Male,Delhi,Post Graduate,3,366076,,1
+22,63585.0,F,Bengaluru,PG,-1,984604,845.0,1
+44,84044.0,Female,Vijayawada,Graduate,9,893523,545.0,1
+50,62557.0,female,Hyderabad,Post Graduate,9,596237,533.0,0
+58,69080.0,female,Bengaluru,Under Graduate,14,251152,577.0,1
+22,22693.0,M,Delhi,Graduate,16,349888,717.0,0
+41,115003.0,Male,Bengaluru,Under Graduate,4,750903,800.0,1
+53,115259.0,Male,Hyderabad,UG,5,944751,572.0,0
+32,89163.0,M,Bengaluru,Graduate,3,142193,781.0,0
+42,45939.0,M,Chennai,Post Graduate,-3,86187,748.0,1
+45,68925.0,M,Bengaluru,Graduate,-1,555950,,1
+47,62941.0,Female,Vijayawada,Graduate,9,188311,620.0,0
+48,41834.0,F,Vijayawada,Graduate,13,960886,713.0,0
+36,38047.0,Male,Chennai,Graduate,-3,850921,738.0,1
+35,46105.0,Female,Hyderabad,Under Graduate,2,558153,,0
+23,95766.0,M,Vijayawada,UG,17,239089,849.0,1
+57,35707.0,Male,Delhi,PG,2,636165,606.0,1
+27,,Female,Vijayawada,Graduate,8,486341,818.0,1
+41,64262.0,F,Vijayawada,Post Graduate,9,362066,547.0,1
+29,43776.0,Female,Hyderabad,Graduate,9,668362,560.0,0
+59,50080.0,F,Bengaluru,Post Graduate,11,737409,836.0,1
+38,86842.0,M,Vijayawada,Under Graduate,17,611419,525.0,0
+24,81373.0,F,Chennai,Post Graduate,12,690053,791.0,1
+45,26776.0,Male,Bengaluru,PG,18,910395,756.0,0
+34,112787.0,M,Delhi,UG,17,681172,507.0,1
+29,75016.0,Male,Hyderabad,Post Graduate,7,175917,612.0,0
+46,29474.0,female,Delhi,Post Graduate,1,860717,752.0,0
+22,78053.0,male,Bengaluru,UG,0,349770,,1
+40,41959.0,F,Bengaluru,PG,-1,748168,706.0,1
+48,25530.0,male,Bengaluru,Graduate,15,531680,802.0,1
+27,114856.0,male,Delhi,Post Graduate,16,331342,626.0,1
+28,23748.0,F,Bengaluru,UG,14,987262,555.0,0
+55,,M,Delhi,Under Graduate,11,589542,713.0,1
+34,118098.0,female,Bengaluru,UG,5,94238,513.0,0
+37,,Male,Chennai,Under Graduate,13,51252,527.0,0
+56,86199.0,Female,Bengaluru,PG,10,876196,577.0,1
+24,54766.0,Male,Delhi,Graduate,11,914141,715.0,0
+22,93530.0,Female,Vijayawada,UG,-3,535450,653.0,0
+26,113557.0,Male,Bengaluru,Post Graduate,17,365826,513.0,0
+24,81087.0,F,Vijayawada,PG,18,371638,686.0,0
+49,,female,Chennai,UG,18,655605,811.0,1
+38,88840.0,Female,Hyderabad,Post Graduate,-1,377359,,1
+46,,M,Chennai,UG,12,652875,502.0,1
+54,71005.0,Male,Bengaluru,Under Graduate,19,56949,610.0,1
+30,66576.0,Male,Vijayawada,UG,7,813185,737.0,0
+56,,Female,Vijayawada,UG,8,367537,,0
+34,82003.0,M,Delhi,UG,6,778913,773.0,1
+51,103211.0,M,Vijayawada,PG,12,712301,793.0,1
+35,72733.0,F,Delhi,UG,4,600222,726.0,1
+28,85318.0,F,Hyderabad,Post Graduate,2,990890,514.0,0
+34,109474.0,F,Bengaluru,Under Graduate,8,830722,691.0,1
+43,43664.0,F,Delhi,Under Graduate,17,505102,618.0,1
+41,87172.0,F,Hyderabad,UG,4,387889,527.0,1
+36,105616.0,F,Vijayawada,PG,0,526467,701.0,0
+38,113264.0,female,Vijayawada,PG,4,406600,538.0,0
+44,46736.0,M,Hyderabad,Post Graduate,14,365557,772.0,0
+46,114209.0,F,Vijayawada,UG,1,933671,730.0,0
+45,20854.0,M,Hyderabad,Under Graduate,5,354462,585.0,0
+49,110084.0,M,Delhi,PG,0,300875,625.0,0
+35,58623.0,male,Delhi,UG,18,513389,799.0,0
+21,27392.0,female,Hyderabad,PG,13,120390,,0
+45,75680.0,F,Delhi,PG,5,757689,644.0,1
+27,66717.0,Male,Delhi,Under Graduate,-3,303490,512.0,1
+29,,Female,Delhi,Graduate,17,617376,711.0,0
+44,70859.0,Male,Chennai,Post Graduate,16,297940,524.0,0
+21,46309.0,female,Bengaluru,Post Graduate,9,415340,567.0,1
+28,107455.0,Female,Vijayawada,Under Graduate,12,483027,566.0,0
+44,,female,Chennai,PG,9,558041,732.0,0
+31,90467.0,M,Delhi,UG,10,367623,608.0,0
+37,72662.0,Female,Hyderabad,PG,-1,266464,645.0,1
+28,118506.0,M,Delhi,Under Graduate,2,792729,,1
+55,32688.0,Male,Bengaluru,Post Graduate,14,560736,727.0,1
+55,45342.0,Male,Delhi,PG,15,856395,610.0,1
+53,57157.0,Female,Hyderabad,Post Graduate,1,367267,533.0,1
+25,87863.0,Female,Bengaluru,UG,11,700199,610.0,0
+59,72083.0,F,Delhi,Post Graduate,-2,938900,763.0,1
+48,85733.0,female,Bengaluru,Post Graduate,6,273777,735.0,0
+27,109045.0,F,Vijayawada,Graduate,14,909909,582.0,0
+29,,female,Vijayawada,Graduate,9,850820,541.0,1
+28,100623.0,F,Delhi,Graduate,1,55569,600.0,1
+32,42671.0,M,Bengaluru,Post Graduate,19,644124,505.0,0
+54,,Female,Hyderabad,Under Graduate,-3,5430888,679.0,0
+53,113384.0,Male,Delhi,Post Graduate,18,479802,781.0,0
+43,,female,Vijayawada,Under Graduate,-3,308090,819.0,1
+44,,female,Vijayawada,Under Graduate,14,717375,725.0,1
+57,,Male,Delhi,Graduate,11,95002,814.0,1
+55,35708.0,F,Bengaluru,PG,13,821954,728.0,1
+42,111906.0,female,Vijayawada,UG,7,711614,788.0,1
+47,69811.0,M,Bengaluru,Graduate,17,984648,649.0,0
+55,,Female,Vijayawada,Graduate,18,5836592,776.0,1
+21,76250.0,Male,Vijayawada,PG,13,548870,697.0,0
+55,92082.0,Female,Chennai,UG,9,261791,569.0,0
+57,,female,Vijayawada,Post Graduate,-3,252846,,0
+34,115742.0,female,Hyderabad,Post Graduate,-2,711450,503.0,1
+23,31411.0,Male,Delhi,Graduate,5,716997,849.0,1
+21,22911.0,M,Delhi,UG,-1,727775,830.0,1
+25,87270.0,male,Bengaluru,Graduate,-3,74071,817.0,0
+46,103763.0,Male,Vijayawada,Under Graduate,17,632531,849.0,0
+34,28680.0,male,Hyderabad,Graduate,12,962259,594.0,0
+59,,F,Bengaluru,Graduate,19,944647,651.0,0
+47,103879.0,male,Chennai,Post Graduate,2,222312,810.0,0
+29,91295.0,M,Bengaluru,Post Graduate,13,307218,636.0,0
+35,108614.0,F,Bengaluru,Post Graduate,1,264879,746.0,1
+35,,male,Vijayawada,Under Graduate,1,413714,742.0,1
+46,57504.0,F,Chennai,Post Graduate,2,476650,530.0,1
+33,21802.0,male,Bengaluru,UG,-1,381868,539.0,1
